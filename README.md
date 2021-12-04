@@ -2,7 +2,7 @@
 
 The dataset describes the records for Pima Indians.
 
-About Dataset:
+## About Dataset:
 
 preg = Number of times pregnant
 
