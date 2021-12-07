@@ -4,6 +4,8 @@ The dataset describes the records for Pima Indians.
 
 ## About Dataset:
 
+### Column Description:
+
 preg = Number of times pregnant
 
 plas = Plasma glucose concentration a 2 hours in an oral glucose tolerance test
