@@ -22,4 +22,4 @@ pedi = Diabetes pedigree function
 
 age = Age (years)
 
-class = Class variable (1:tested positive for diabetes, 0: tested negative for diabetes)
+class = Class Variable (1:tested positive for diabetes, 0: tested negative for diabetes)
